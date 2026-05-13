@@ -1,5 +1,4 @@
-# 07-Algorithms_-_Problem_Solving_Level_3
-# 📘 07 — Algorithms & Problem Solving – Level 3
+# 📘  07-Algorithms_-_Problem_Solving_Level_3
 
 > 51 advanced C++ problems covering matrices, strings, recursion, file handling, and real projects — built on clean code and Divide & Conquer thinking.
 
